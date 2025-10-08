@@ -1,0 +1,233 @@
+hello | привет
+world | мир
+look | смотреть
+look forward | ожидать
+cat | кот
+dog | собака
+window | окно
+to | к
+I | я
+like | нравиться
+and | и
+see | видеть
+you | тебя
+tomorrow | завтра
+weekend | выходные
+house | дом
+car | машина
+book | книга
+pen | ручка
+computer | компьютер
+program | программа
+code | код
+language | язык
+translate | переводить
+dictionary | словарь
+file | файл
+text | текст
+word | слово
+sentence | предложение
+good | хороший
+bad | плохой
+big | большой
+small | маленький
+new | новый
+old | старый
+day | день
+night | ночь
+morning | утро
+evening | вечер
+time | время
+person | человек
+people | люди
+man | мужчина
+woman | женщина
+child | ребенок
+friend | друг
+family | семья
+work | работа
+school | школа
+student | студент
+teacher | учитель
+city | город
+country | страна
+water | вода
+food | еда
+apple | яблоко
+bread | хлеб
+money | деньги
+year | год
+month | месяц
+week | неделя
+hour | час
+minute | минута
+second | секунда
+today | сегодня
+yesterday | вчера
+tomorrow | завтра
+now | сейчас
+here | здесь
+there | там
+who | кто
+what | что
+where | где
+when | когда
+why | почему
+how | как
+yes | да
+no | нет
+can | мочь
+please | пожалуйста
+thank you | спасибо
+sorry | извините
+excuse me | извините
+how are you | как дела
+fine | хорошо
+not bad | неплохо
+goodbye | до свидания
+see you later | увидимся позже
+have a nice day | хорошего дня
+my name is | меня зовут
+what is your name | как тебя зовут
+nice to meet you | приятно познакомиться
+where are you from | откуда ты
+i am from | я из
+how old are you | сколько тебе лет
+i am years old | мне лет
+what do you do | чем ты занимаешься
+i am a student | я студент
+i work | я работаю
+where do you live | где ты живешь
+i live in | я живу в
+what time is it | который час
+it is o'clock | сейчас часов
+can you help me | можешь помочь мне
+i need help | мне нужна помощь
+i don't understand | я не понимаю
+could you repeat that | не мог бы ты повторить
+speak slowly | говори медленнее
+do you speak english | ты говоришь по-английски
+i speak a little | я немного говорю
+where is the bathroom | где ванная комната
+how much does it cost | сколько это стоит
+i would like | я бы хотел
+check please | счет пожалуйста
+i love you | я люблю тебя
+i miss you | я скучаю по тебе
+happy birthday | с днем рождения
+merry christmas | с рождеством
+happy new year | с новым годом
+congratulations | поздравляю
+good luck | удачи
+be careful | будь осторожен
+have fun | повеселись
+i'm tired | я устал
+i'm hungry | я голоден
+i'm thirsty | я хочу пить
+i'm cold | мне холодно
+i'm hot | мне жарко
+i'm sick | я болен
+i'm bored | мне скучно
+i'm excited | я взволнован
+i'm sorry | мне жаль
+that's great | это прекрасно
+that's terrible | это ужасно
+what's wrong | что случилось
+nothing | ничего
+everything | все
+something | что-то
+someone | кто-то
+somewhere | где-то
+sometimes | иногда
+always | всегда
+never | никогда
+maybe | возможно
+probably | вероятно
+of course | конечно
+absolutely | абсолютно
+definitely | определенно
+exactly | точно
+almost | почти
+enough | достаточно
+too much | слишком много
+too many | слишком много
+a little | немного
+a few | несколько
+many | много
+much | много
+more | больше
+less | меньше
+very | очень
+really | действительно
+quite | довольно
+pretty | довольно
+so | так
+too | тоже
+also | также
+either | также
+neither | ни тот, ни другой
+both | оба
+all | все
+none | ни один
+each | каждый
+every | каждый
+other | другой
+another | другой
+next | следующий
+last | последний
+first | первый
+second | второй
+third | третий
+fourth | четвертый
+fifth | пятый
+sixth | шестой
+seventh | седьмой
+eighth | восьмой
+ninth | девятый
+tenth | десятый
+red | красный
+blue | синий
+green | зеленый
+yellow | желтый
+black | черный
+white | белый
+brown | коричневый
+orange | оранжевый
+purple | фиолетовый
+pink | розовый
+gray | серый
+gold | золотой
+silver | серебряный
+color | цвет
+number | число
+one | один
+two | два
+three | три
+four | четыре
+five | пять
+six | шесть
+seven | семь
+eight | восемь
+nine | девять
+ten | десять
+eleven | одиннадцать
+twelve | двенадцать
+thirteen | тринадцать
+fourteen | четырнадцать
+fifteen | пятнадцать
+sixteen | шестнадцать
+seventeen | семнадцать
+eighteen | восемнадцать
+nineteen | девятнадцать
+twenty | двадцать
+thirty | тридцать
+forty | сорок
+fifty | пятьдесят
+sixty | шестьдесят
+seventy | семьдесят
+eighty | восемьдесят
+ninety | девяносто
+hundred | сто
+thousand | тысяча
+million | миллион
+billion | миллиард
